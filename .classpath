@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="texte/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/texte"/>
+	<classpathentry kind="lib" path="lib/snowball.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
